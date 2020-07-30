@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	u "glofox/internal/user"
+	u "hexa/internal/user"
 
 	"gopkg.in/dealancer/validate.v2"
 )

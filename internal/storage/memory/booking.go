@@ -1,7 +1,7 @@
 package memory
 
 import (
-	bk "glofox/internal/booking"
+	bk "hexa/internal/booking"
 	"sync"
 
 	"github.com/google/uuid"

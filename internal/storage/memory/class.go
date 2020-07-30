@@ -2,7 +2,7 @@ package memory
 
 import (
 	"errors"
-	"glofox/internal/class"
+	"hexa/internal/class"
 	"sync"
 
 	"github.com/google/uuid"

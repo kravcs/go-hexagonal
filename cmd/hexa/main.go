@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"glofox/internal/booking"
-	"glofox/internal/class"
-	"glofox/internal/storage/memory"
+	"hexa/internal/booking"
+	"hexa/internal/class"
+	"hexa/internal/storage/memory"
 	"log"
 	"net/http"
 	"os"

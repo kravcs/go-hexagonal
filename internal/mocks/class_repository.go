@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	c "glofox/internal/class"
+	c "hexa/internal/class"
 
 	mock "github.com/stretchr/testify/mock"
 )

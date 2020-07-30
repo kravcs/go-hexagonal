@@ -1,7 +1,7 @@
 package mocks
 
 import (
-	u "glofox/internal/user"
+	u "hexa/internal/user"
 
 	mock "github.com/stretchr/testify/mock"
 )

@@ -1,5 +1,5 @@
 build:
-	cd cmd/glofox && GOOS=linux go build -ldflags="-s -w" -o ../../glofox
+	cd cmd/hexa && GOOS=linux go build -ldflags="-s -w" -o ../../hexa
 
 run:
-	go run cmd/glofox/main.go
+	go run cmd/hexa/main.go

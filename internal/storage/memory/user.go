@@ -2,7 +2,7 @@ package memory
 
 import (
 	"fmt"
-	"glofox/internal/user"
+	"hexa/internal/user"
 
 	"github.com/google/uuid"
 )

@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	cl "glofox/internal/class"
-	mocks "glofox/internal/mocks"
-	u "glofox/internal/user"
+	cl "hexa/internal/class"
+	mocks "hexa/internal/mocks"
+	u "hexa/internal/user"
 
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"

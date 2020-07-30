@@ -1,11 +1,11 @@
 FROM golang
 
-COPY . /glofox
-WORKDIR /glofox
+COPY . /hexa
+WORKDIR /hexa
 
 RUN go get -v all
-RUN go build -o ./ ./cmd/glofox
+RUN go build -o ./ ./cmd/hexa
 
 EXPOSE 8000
 
-CMD ["glofox"]
+CMD ["hexa"]

@@ -9,8 +9,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	cl "glofox/internal/class"
-	mocks "glofox/internal/mocks"
+	cl "hexa/internal/class"
+	mocks "hexa/internal/mocks"
 
 	"github.com/stretchr/testify/assert"
 )

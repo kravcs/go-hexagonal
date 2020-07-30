@@ -8,8 +8,8 @@ import (
 	errs "github.com/pkg/errors"
 	"gopkg.in/dealancer/validate.v2"
 
-	c "glofox/internal/class"
-	u "glofox/internal/user"
+	c "hexa/internal/class"
+	u "hexa/internal/user"
 )
 
 var (

@@ -3,7 +3,7 @@ package booking
 import (
 	"encoding/json"
 	"fmt"
-	"glofox/internal/common"
+	"hexa/internal/common"
 	"net/http"
 )
 

@@ -1,4 +1,4 @@
-module glofox
+module hexa
 
 go 1.14
 
